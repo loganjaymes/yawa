@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { SpotifyApi } from '@spotify/web-api-ts-sdk';
 
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET!;
