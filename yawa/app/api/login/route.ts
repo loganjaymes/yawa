@@ -1,0 +1,1 @@
+// redirect to spotify and log in
